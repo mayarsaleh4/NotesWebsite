@@ -21,11 +21,8 @@
 - **Bootstrap** – Styling and layout
 - **Jinja2** – Templating engine for HTML
 
-## 🧰 Installation & Setup
 
-Follow these steps to run the project locally:
-
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/mayarsaleh4/NotesWebsite.git
